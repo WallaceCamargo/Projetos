@@ -1,0 +1,11 @@
+.produtos {
+  display: flex;
+  flex-wrap: wrap;
+}
+.produtos-item {
+  width: 20%;
+  margin: 1em;
+}
+img {
+  width: 100%;
+}
